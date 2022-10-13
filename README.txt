@@ -1,0 +1,1 @@
+This file contains information about assignments about git branching. This assignment have three sections. The three sections are html, css and javascript.
